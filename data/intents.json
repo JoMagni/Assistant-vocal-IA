@@ -1,0 +1,20 @@
+{
+  "intents": [
+    {
+      "tag": "heure",
+      "patterns": ["Quelle heure il est ?", "Il est quelle heure ?", "Donne-moi l'heure"]
+    },
+    {
+      "tag": "jour",
+      "patterns": ["Quel jour on est ?", "Quel jour sommes-nous?", "Quelle est la date aujourd'hui ?"]
+    },
+    {
+      "tag": "blague",
+      "patterns": ["Raconte une blague", "Tu connais une blague ?", "Fais-moi rire"]
+    },
+    {
+      "tag": "exit",
+      "patterns": ["Arrête", "Stop", "Quitte", "Termine"]
+    }
+  ]
+}
