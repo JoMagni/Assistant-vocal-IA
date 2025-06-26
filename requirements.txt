@@ -9,10 +9,12 @@ pyaudio==0.2.14
 sounddevice==0.4.6
 speechrecognition==3.10.0
 pyttsx3==2.90
-scikit-learn==1.4.0
+scikit-learn==1.4.2
+matplotlib==3.7.5
 pandas==2.1.4
 tqdm==4.66.1
 pickle-mixin==1.0.2
 numpy==1.23.5
-torch==2.0.1
 scipy==1.11.4
+joblib==1.3.2
+
